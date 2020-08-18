@@ -1,0 +1,15 @@
+﻿  Executer.cpp
+  Healed.cpp
+  Lab.cpp
+  Patient.cpp
+  Person.cpp
+  PersonState.cpp
+  QuarantinedSuspect.cpp
+  Route.cpp
+  RouteAddress.cpp
+  RouteDecorator.cpp
+  RouteSite.cpp
+  Source.cpp
+  Suspect.cpp
+  Generating Code...
+  SWENG_Corona.vcxproj -> C:\Users\adirs\Desktop\SWENG_Corona\Debug\SWENG_Corona.exe
